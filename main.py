@@ -1,2 +1,2 @@
-print("Banana")
-var = 8
+print("Maca")
+var = 'legal'
